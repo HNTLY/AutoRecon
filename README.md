@@ -1,2 +1,2 @@
 # AutoRecon
-Auto recon script designed for HTB
+Basic auto recon script designed for HTB
